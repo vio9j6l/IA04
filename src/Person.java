@@ -1,3 +1,12 @@
+/*
+ * Course: IST 311
+ * Semester: Spring 2020
+ * Instructor: Phil O'Connell (pxo4)
+ * Student: JiaJia liu
+ * Email: jpl5840@psu.edu
+ * Assignment: IA04
+ */
+
 public class Person
 {
   // Name of the person
